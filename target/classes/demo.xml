@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<classroom grade="primary5">
+    <persons>
+        <teacher id="1">
+            <property name="name" value="laosi"/>
+            <property name="age" value="24"/>
+        </teacher>
+
+        <students>
+            <student id="1">
+                <property name="name" value="lisi"/>
+                <property name="age" value="12"/>
+            </student>
+            <student id="2">
+                <property name="name" value="zhangsan"/>
+                <property name="age" value="12"/>
+            </student>
+            <student id="3">
+                <property name="name" value="wangwu"/>
+                <property name="age" value="12"/>
+            </student>
+        </students>
+        <student id="3">
+            <property name="name" value="wangwu"/>
+            <property name="age" value="12"/>
+        </student>
+    </persons>
+    <student id="3">
+        <property name="name" value="wangwu"/>
+        <property name="age" value="12"/>
+    </student>
+</classroom>
