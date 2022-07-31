@@ -1,16 +1,16 @@
 package com.jld.ads;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class A000010 {
 
-    @Test
+
     public void Test1() {
         System.out.println(10 * 20 + "QAX");
         System.out.println("QAX" + 10 * 20);
     }
 
-    class A {
+    static class A {
         int fun = 1;
 
         protected void method() {
@@ -18,7 +18,7 @@ public class A000010 {
         }
     }
 
-    class B extends A {
+    static class B extends A {
         int fun = 2;
 
         @Override
@@ -27,7 +27,7 @@ public class A000010 {
         }
     }
 
-    @Test
+
     //protected也是向上转型
     public void Test2(){
         A a = new A();
