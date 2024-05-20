@@ -1,0 +1,13 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ïá–ö
+[
+java:S1610"@Convert the abstract class "CaffeineBeverage" into an interface.( ±îëúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.( ±îëúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßŒÍ°úÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ä€«Z
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Úàâøÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ğãú ûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Æ‹õÊ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(©ëÜÆ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
